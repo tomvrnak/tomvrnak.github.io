@@ -1,2 +1,4 @@
 name: Tom Vrnak, software developer
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
